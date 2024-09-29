@@ -26,14 +26,14 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'b4503dca1d317b812ad429971bca987f', // Write here your API Key
-	weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
-	weatherUnit: 'C', // 'F', 'C'
-	language: 'en', // More languages in https://openweathermap.org/current#multi
+	//weatherKey: 'b4503dca1d317b812ad429971bca987f', // Write here your API Key
+	//weatherIcons: 'Nord', // 'Onedark', 'Nord', 'Dark', 'White'
+	//weatherUnit: 'C', // 'F', 'C'
+	//language: 'en', // More languages in https://openweathermap.org/current#multi
 
-	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	//trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
+	//defaultLatitude: '37.775',
+	//defaultLongitude: '-122.419',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Mail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.proton.me/u/0/inbox',
 		},
 		{
 			id: '3',
@@ -73,7 +73,7 @@ const CONFIG = {
 			id: '4',
 			name: 'Calendar',
 			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			link: 'https://calendar.proton.me/u/0',
 		},
 		{
 			id: '5',
