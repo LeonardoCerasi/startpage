@@ -17,10 +17,10 @@ const CONFIG = {
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Good morning!',
+	greetingMorning: 'Good morning,',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'Go to Sleep,',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -83,9 +83,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'News',
-			icon: 'newspaper',
-			link: 'https://ilmanifesto.it/',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -157,24 +157,24 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'newspaper',
 			id: '2',
 			links: [
 				{
-					name: 'YouTube',
-					link: 'https://www.youtube.com/',
+					name: 'il manifesto',
+					link: 'https://www.ilmanifesto.it/',
 				},
 				{
-					name: 'Netflix',
-					link: 'https://www.netflix.com',
+					name: 'The Guardian',
+					link: 'https://www.theguardian.com/europe',
 				},
 				{
-					name: 'Twitch',
-					link: 'https://www.twitch.tv',
+					name: 'La Repubblica',
+					link: 'https://www.repubblica.it',
 				},
 				{
-					name: 'Duolingo',
-					link: 'https://www.duolingo.com',
+					name: 'Metalitalia',
+					link: 'https://www.metalitalia.com',
 				},
 			],
 		},
